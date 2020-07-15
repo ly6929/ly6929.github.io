@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'spring-rice-3946.maili6911.workers.dev': 1,
       }
     },
     
@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'black-cloud-6b0d.maili6911.workers.dev': 1,
       }
     },
     
@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'noisy-sound-29f9.shande.workers.dev': 1,
       }
     },
   
@@ -36,7 +36,7 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        '444.444.workers.dev': 1,
+        'empty-brook-2cf8.shande.workers.dev': 1,
       },
     },
     
